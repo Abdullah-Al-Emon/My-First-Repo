@@ -1,3 +1,7 @@
 h1{
     font-weight: bolder;
 }
+img{
+    border-radius: 100%;
+    width: 80%;
+}
